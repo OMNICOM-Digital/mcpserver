@@ -17,7 +17,7 @@ A GLPI plugin that exposes GLPI as an [MCP](https://modelcontextprotocol.io) (Mo
 
 Built and maintained by [OMNICOM s.r.o.](https://omnicom.digital), an ITSM/ESM consultancy.
 
-**[-> Full product page, pricing, and how to get it](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
+**[→ Full product page, pricing, and how to get it](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
 
 Need only read access? [MCP Server Lite](https://github.com/OMNICOM-Digital/mcpserver-lite) is the free, read-only edition (33 read tools, no write tools), published on GitHub for everyone.
 
@@ -106,7 +106,7 @@ A subscription covers new releases, support with SLA, and access to the OMNICOM 
 
 Security fixes are not part of the subscription. See [Security support](#security-support) above and [SECURITY.md](SECURITY.md).
 
-**[Order / subscribe via omnicom.digital ->](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
+**[Order / subscribe via omnicom.digital →](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
 
 ## Get in touch
 
