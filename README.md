@@ -17,22 +17,22 @@ A GLPI plugin that exposes GLPI as an [MCP](https://modelcontextprotocol.io) (Mo
 
 Built and maintained by [OMNICOM s.r.o.](https://omnicom.digital), an ITSM/ESM consultancy.
 
-**[-> Full product page, pricing, and how to get it](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
+**[→ Full product page, pricing, and how to get it](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
 
 Need only read access? [MCP Server Lite](https://github.com/OMNICOM-Digital/mcpserver-lite) is the free, read-only edition (33 read tools, no write tools), published on GitHub for everyone.
 
 ## Features
 
-- **Tickets** - search, review, and update tickets in plain language, with full history, follow-ups, tasks, solutions, and approvals; add or remove requesters and observers, and assign tickets to groups by name
-- **Knowledge base** - natural-language queries return relevant articles instead of keyword search
-- **Service catalog** - conversational form completion, validated against GLPI's own configuration
-- **Users and groups** - look up colleagues and manage groups from the chat interface
-- **Projects** - create, update, and assign projects and tasks, with cost tracking
-- **ITIL analytics** - flags data inconsistencies against ITIL best practices, including misclassified ticket types
-- **ITIL categories** - search the category tree and validate that a ticket's type and category are consistent
-- **Administration** - list and inspect entities, and read the current session context
-- **Write confirmation** (new) - every change the AI makes is previewed first, with targets shown by name and before and after values, and is only written after you approve it
-- **Language check** (new) - public followups and solutions are checked against the requester's GLPI language, and you choose whether to keep the original language or reply in theirs
+- **Tickets**: search, review, and update tickets in plain language, with full history, follow-ups, tasks, solutions, and approvals; add or remove requesters and observers, and assign tickets to groups by name
+- **Knowledge base**: natural-language queries return relevant articles instead of keyword search
+- **Service catalog**: conversational form completion, validated against GLPI's own configuration
+- **Users and groups**: look up colleagues and manage groups from the chat interface
+- **Projects**: create, update, and assign projects and tasks, with cost tracking
+- **ITIL analytics**: flags data inconsistencies against ITIL best practices, including misclassified ticket types
+- **ITIL categories**: search the category tree and validate that a ticket's type and category are consistent
+- **Administration**: list and inspect entities, and read the current session context
+- **Write confirmation** (new): every change the AI makes is previewed first, with targets shown by name and before and after values, and is only written after you approve it
+- **Language check** (new): public followups and solutions are checked against the requester's GLPI language, and you choose whether to keep the original language or reply in theirs
 
 ## Permission tiers
 
@@ -106,7 +106,7 @@ A subscription covers new releases, support with SLA, and access to the OMNICOM 
 
 Security fixes are not part of the subscription. See [Security support](#security-support) above and [SECURITY.md](SECURITY.md).
 
-**[Order / subscribe via omnicom.digital ->](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
+**[Order / subscribe via omnicom.digital →](https://www.omnicom.digital/en/our-services/methodologies-and-tools/glpi/plugins-for-glpi/)**
 
 ## Get in touch
 
